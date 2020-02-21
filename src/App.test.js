@@ -38,5 +38,4 @@ test('renders learn react link', () => {
 
   fireEvent.change(selectOptions[0], { target: { value: "0" } });
   fireEvent.change(selectOptions[1], { target: { value: "132" } });
-
 });
